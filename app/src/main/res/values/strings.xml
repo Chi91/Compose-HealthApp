@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Health App</string>
+    <string name="HomeScreen">Medikationsplan</string>
+    <string name="SearchScreen"></string>
+    <string name="ShareScreen">Health App</string>
+    <string name="EditDeleteScreen">Health App</string>
+    <string name="ListDetailScreen">Health App</string>
+    <string name="DetailScreen">Health App</string>
+
+    <string name="EmptyScreen">Information</string>
+
+    <string name="QrScreenBoxDescription">Das ist der aktuelle Medikationsplan der entweder über QR Code scannbar ist oder per Mail versendet werden kann!</string>
+    <string name="QrScreenBoxTitle">QR Code teilen</string>
+
+    <string name="OptionAddSreenTitle">Arzneimittel hinzufügen</string>
+    <string name="OptionAddScreenDescription">Scannen Sie dafür den Barcode ein oder geben Sie die 8stellige PZN an!</string>
+    <string name="OptionAddScreenButton">Barcode scannen</string>
+    <string name="OptionAddOrText">Oder</string>
+    <string name="OptionAddTextfield">PZN eingeben</string>
+
+    <string name="InfoCardTopicSport">Sport</string>
+    <string name="InfoCardTopicFood">Ernährung</string>
+    <string name="InfoCardTopicTherapy">Therapie</string>
+    <string name="InfoCardTopicSymptome">Symptome</string>
+    <string name="InfoCardTopicPlants">Phytopharmaka</string>
+    <string name="InfoCardTopicInstruction">Anwendung</string>
+    <string name="text_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+</resources>
